@@ -1,0 +1,55 @@
+fileFormatVersion: 2
+guid: a97b46a4fa97af6499f1bcce6f2c63ff
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  missingFiles: []
+  errors: []
+  warnings:
+  - Tileset 'pasto' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset 'path2' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset 'water' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset 'casa1' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset 'casa2' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset 'flores' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset 'lilypad' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset 'farmland' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset 'piedra' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset 'cofre' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset 'granite floor' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset 'monsoongrass' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset 'arbusto' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset 'arbusto plantado' is an embedded tileset. Exported tilesets are preferred.
+  - "Tileset 'se\xF1al' is an embedded tileset. Exported tilesets are preferred."
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 26
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 106
+  tilesAsObjects: 0
+  sortingMode: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets:
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
