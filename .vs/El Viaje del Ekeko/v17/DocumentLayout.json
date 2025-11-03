@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aalan\\El Viaje del Ekeko\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10D2BBBA-B85C-D106-0321-9655441770F4}|Assembly-CSharp.csproj|c:\\users\\aalan\\el viaje del ekeko\\assets\\mapa\\scriptsmapas\\dialogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D2BBBA-B85C-D106-0321-9655441770F4}|Assembly-CSharp.csproj|solutionrelative:assets\\mapa\\scriptsmapas\\dialogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D2BBBA-B85C-D106-0321-9655441770F4}|Assembly-CSharp.csproj|c:\\users\\aalan\\el viaje del ekeko\\assets\\mapa\\scriptsmapas\\dialogtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D2BBBA-B85C-D106-0321-9655441770F4}|Assembly-CSharp.csproj|solutionrelative:assets\\mapa\\scriptsmapas\\dialogtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D2BBBA-B85C-D106-0321-9655441770F4}|Assembly-CSharp.csproj|C:\\Users\\aalan\\El Viaje del Ekeko\\assets\\mapa\\personaje\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D2BBBA-B85C-D106-0321-9655441770F4}|Assembly-CSharp.csproj|solutionrelative:assets\\mapa\\personaje\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D2BBBA-B85C-D106-0321-9655441770F4}|Assembly-CSharp.csproj|C:\\Users\\aalan\\El Viaje del Ekeko\\assets\\mapa\\scriptsmapas\\nivel2\\stonetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D2BBBA-B85C-D106-0321-9655441770F4}|Assembly-CSharp.csproj|solutionrelative:assets\\mapa\\scriptsmapas\\nivel2\\stonetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D2BBBA-B85C-D106-0321-9655441770F4}|Assembly-CSharp.csproj|C:\\Users\\aalan\\El Viaje del Ekeko\\assets\\mapa\\scriptsmapas\\nivel2\\uimessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D2BBBA-B85C-D106-0321-9655441770F4}|Assembly-CSharp.csproj|solutionrelative:assets\\mapa\\scriptsmapas\\nivel2\\uimessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D2BBBA-B85C-D106-0321-9655441770F4}|Assembly-CSharp.csproj|C:\\Users\\aalan\\El Viaje del Ekeko\\assets\\mapa\\scriptsmapas\\nivel2\\puzzlestonemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D2BBBA-B85C-D106-0321-9655441770F4}|Assembly-CSharp.csproj|solutionrelative:assets\\mapa\\scriptsmapas\\nivel2\\puzzlestonemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DialogTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\aalan\\El Viaje del Ekeko\\Assets\\Mapa\\scriptsMapas\\DialogTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Mapa\\scriptsMapas\\DialogTrigger.cs",
+              "ToolTip": "C:\\Users\\aalan\\El Viaje del Ekeko\\Assets\\Mapa\\scriptsMapas\\DialogTrigger.cs",
+              "RelativeToolTip": "Assets\\Mapa\\scriptsMapas\\DialogTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:14:14.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DialogManager.cs",
+              "DocumentMoniker": "C:\\Users\\aalan\\El Viaje del Ekeko\\Assets\\Mapa\\scriptsMapas\\DialogManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Mapa\\scriptsMapas\\DialogManager.cs",
+              "ToolTip": "C:\\Users\\aalan\\El Viaje del Ekeko\\Assets\\Mapa\\scriptsMapas\\DialogManager.cs",
+              "RelativeToolTip": "Assets\\Mapa\\scriptsMapas\\DialogManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:11:55.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraMovement.cs",
+              "DocumentMoniker": "C:\\Users\\aalan\\El Viaje del Ekeko\\Assets\\Mapa\\personaje\\CameraMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Mapa\\personaje\\CameraMovement.cs",
+              "ToolTip": "C:\\Users\\aalan\\El Viaje del Ekeko\\Assets\\Mapa\\personaje\\CameraMovement.cs",
+              "RelativeToolTip": "Assets\\Mapa\\personaje\\CameraMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T14:22:44.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIMessage.cs",
+              "DocumentMoniker": "C:\\Users\\aalan\\El Viaje del Ekeko\\Assets\\Mapa\\scriptsMapas\\nivel2\\UIMessage.cs",
+              "RelativeDocumentMoniker": "Assets\\Mapa\\scriptsMapas\\nivel2\\UIMessage.cs",
+              "ToolTip": "C:\\Users\\aalan\\El Viaje del Ekeko\\Assets\\Mapa\\scriptsMapas\\nivel2\\UIMessage.cs",
+              "RelativeToolTip": "Assets\\Mapa\\scriptsMapas\\nivel2\\UIMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T14:18:05.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoneTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\aalan\\El Viaje del Ekeko\\Assets\\Mapa\\scriptsMapas\\nivel2\\StoneTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Mapa\\scriptsMapas\\nivel2\\StoneTrigger.cs",
+              "ToolTip": "C:\\Users\\aalan\\El Viaje del Ekeko\\Assets\\Mapa\\scriptsMapas\\nivel2\\StoneTrigger.cs",
+              "RelativeToolTip": "Assets\\Mapa\\scriptsMapas\\nivel2\\StoneTrigger.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T05:13:06.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PuzzleStoneManager.cs",
+              "DocumentMoniker": "C:\\Users\\aalan\\El Viaje del Ekeko\\Assets\\Mapa\\scriptsMapas\\nivel2\\PuzzleStoneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Mapa\\scriptsMapas\\nivel2\\PuzzleStoneManager.cs",
+              "ToolTip": "C:\\Users\\aalan\\El Viaje del Ekeko\\Assets\\Mapa\\scriptsMapas\\nivel2\\PuzzleStoneManager.cs",
+              "RelativeToolTip": "Assets\\Mapa\\scriptsMapas\\nivel2\\PuzzleStoneManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T05:12:26.455Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
