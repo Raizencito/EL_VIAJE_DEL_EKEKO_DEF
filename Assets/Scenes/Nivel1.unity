@@ -721,7 +721,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0aa0847757c7e2c4491dd65a826c225c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 4.5
+  moveSpeed: 1
   walkFrames:
   - {fileID: 722065832, guid: 1c4206a57bea0e34e9a1a01f2226be6d, type: 3}
   - {fileID: -1945698268, guid: 1c4206a57bea0e34e9a1a01f2226be6d, type: 3}

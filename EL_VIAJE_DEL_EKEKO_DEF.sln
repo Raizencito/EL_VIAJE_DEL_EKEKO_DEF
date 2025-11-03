@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperTiled2UnityEditor", "SuperTiled2UnityEditor.csproj", "{5149A4BA-B2A1-DA0F-6A80-FC43CDD12A72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperTiled2Unity", "SuperTiled2Unity.csproj", "{AFD1AFD6-2CBD-7350-FA99-84C88FE9E006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{A6ED6D68-61FA-24DC-2A05-0A6AF93FEA53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5149A4BA-B2A1-DA0F-6A80-FC43CDD12A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5149A4BA-B2A1-DA0F-6A80-FC43CDD12A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5149A4BA-B2A1-DA0F-6A80-FC43CDD12A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5149A4BA-B2A1-DA0F-6A80-FC43CDD12A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFD1AFD6-2CBD-7350-FA99-84C88FE9E006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD1AFD6-2CBD-7350-FA99-84C88FE9E006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD1AFD6-2CBD-7350-FA99-84C88FE9E006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD1AFD6-2CBD-7350-FA99-84C88FE9E006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6ED6D68-61FA-24DC-2A05-0A6AF93FEA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6ED6D68-61FA-24DC-2A05-0A6AF93FEA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6ED6D68-61FA-24DC-2A05-0A6AF93FEA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6ED6D68-61FA-24DC-2A05-0A6AF93FEA53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
