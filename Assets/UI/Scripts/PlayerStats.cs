@@ -2,29 +2,40 @@ using UnityEngine;
 
 public class PlayerStats : MonoBehaviour
 {
-    public float maxHealth = 100f;
-    public float currentHealth;
+    // Cambiamos a int porque cada corazón es una unidad
+    public int maxHealth = 5;
+    public int currentHealth;
 
-    // Nueva Referencia: Necesitamos el UIManager para que muestre el Game Over
-    public UIManager uiManager; // ¡Asignar en el Inspector!
+    // Referencias a otros Managers
+    public UIManager uiManager; // Para el Game Over
+    public HeartManager heartManager; // ¡NUEVO! Gestor de Corazones
 
     void Start()
     {
         currentHealth = maxHealth;
+
+        // Inicializa los corazones en la UI
+        if (heartManager != null)
+        {
+            heartManager.SetupHearts(maxHealth);
+            heartManager.UpdateHearts(currentHealth);
+        }
     }
 
-    // Método para recibir daño (ya existente o similar)
-    public void TakeDamage(float amount)
+    // Método para recibir daño (llamado por el enemigo)
+    public void TakeDamage(int amount)
     {
         currentHealth -= amount;
 
-        // La vida no puede ser negativa
-        if (currentHealth < 0)
+        if (currentHealth < 0) currentHealth = 0;
+
+        // 1. Notificar al gestor de corazones sobre el cambio
+        if (heartManager != null)
         {
-            currentHealth = 0;
+            heartManager.UpdateHearts(currentHealth);
         }
 
-        // Lógica de Muerte
+        // 2. Lógica de Muerte
         if (currentHealth <= 0)
         {
             Die();
@@ -33,17 +44,13 @@ public class PlayerStats : MonoBehaviour
 
     void Die()
     {
-        // 1. Evita que la función Die() se llame múltiples veces
-        if (uiManager.IsGameOver) return;
+        // Lógica para Game Over (asumiendo que ya está en UIManager)
+        if (uiManager != null)
+        {
+            uiManager.ShowGameOverScreen();
+        }
 
-        // 2. Notifica al UIManager que el juego ha terminado
-        uiManager.ShowGameOverScreen();
-
-        // 3. Desactiva o congela el movimiento del personaje
-        // Puedes desactivar este script o tu script de movimiento.
-        // Ejemplo: GetComponent<PlayerMovement>().enabled = false;
-
-        // 4. (Opcional) Congela la animación del personaje o cambia a un sprite de "muerto"
-        Debug.Log("El personaje ha muerto. GAME OVER.");
+        // Desactiva el movimiento, etc.
+        Debug.Log("El personaje ha muerto.");
     }
 }

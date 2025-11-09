@@ -64,13 +64,19 @@
     <Compile Include="Assets\Mapa\scriptsMapas\nivel2\PuzzleStoneManager.cs" />
     <Compile Include="Assets\Mapa\scriptsMapas\DialogTrigger.cs" />
     <Compile Include="Assets\UI\Scripts\PlayerStats.cs" />
+    <Compile Include="Assets\UI\Scripts\HeartManager.cs" />
     <Compile Include="Assets\UI\Scripts\PausaManager.cs" />
     <Compile Include="Assets\Mapa\scriptsMapas\nivel2\UIMessage.cs" />
     <Compile Include="Assets\Mapa\scriptsMapas\nivel2\StoneTrigger.cs" />
     <Compile Include="Assets\UI\Scripts\UIManager.cs" />
+    <Compile Include="Assets\Menu\Scripts\CreditsScroller.cs" />
+    <Compile Include="Assets\Menu\Scripts\OptionsManager.cs" />
+    <Compile Include="Assets\Menu\Scripts\MenuController.cs" />
     <Compile Include="Assets\Mapa\personaje\CameraMovement.cs" />
+    <Compile Include="Assets\Menu\Scripts\PrologueManager.cs" />
     <Compile Include="Assets\Mapa\scriptsMapas\DialogManager.cs" />
     <Compile Include="Assets\Mapa\personaje\Player_Movement.cs" />
+    <Compile Include="Assets\Ekeko\scripts\EnemyChaser.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

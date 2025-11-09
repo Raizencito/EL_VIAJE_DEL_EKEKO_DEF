@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 09510687dee797a4e806cb2305f0656c
+guid: 4d1de0ec26ec2904faae10a0892d8b13
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: AnimacionEkeko-removebg-preview_0
+      name: Vida_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 250
-        width: 166.66667
-        height: 250
+        x: 56
+        y: 169
+        width: 188
+        height: 170
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,20 +111,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 440d8a6bc21bdb948918f343cc1fa374
-      internalID: -1606604372
+      spriteID: 709eb92fdb798444caa6a9f16bd68f5b
+      internalID: -1816139732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AnimacionEkeko-removebg-preview_1
+      name: Vida_1
       rect:
         serializedVersion: 2
-        x: 166
-        y: 250
-        width: 166.66667
-        height: 250
+        x: 264
+        y: 169
+        width: 184
+        height: 169
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,92 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7055504cc2e6c69488aa18474c8fee2f
-      internalID: 1129866723
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AnimacionEkeko-removebg-preview_2
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 250
-        width: 166.66667
-        height: 250
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0a5126bde1e668944908282f3f7c0c59
-      internalID: -1918683911
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AnimacionEkeko-removebg-preview_3
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 166.66667
-        height: 250
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 812772ede4517114ca0bdcc510404976
-      internalID: -1038322901
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AnimacionEkeko-removebg-preview_4
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 0
-        width: 166.66667
-        height: 250
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b169322a2cf0784ca9a800325bd87ec
-      internalID: -1349099643
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AnimacionEkeko-removebg-preview_5
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 0
-        width: 166.66667
-        height: 250
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3e53efa1c2a5332439959d65adadff3a
-      internalID: 2021384150
+      spriteID: dc86c79e86883c247ae0d1358ffc082f
+      internalID: 1087157594
       vertices: []
       indices: 
       edges: []
@@ -233,12 +149,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      AnimacionEkeko-removebg-preview_0: -1606604372
-      AnimacionEkeko-removebg-preview_1: 1129866723
-      AnimacionEkeko-removebg-preview_2: -1918683911
-      AnimacionEkeko-removebg-preview_3: -1038322901
-      AnimacionEkeko-removebg-preview_4: -1349099643
-      AnimacionEkeko-removebg-preview_5: 2021384150
+      Vida_0: -1816139732
+      Vida_1: 1087157594
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
